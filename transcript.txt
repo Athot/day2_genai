@@ -1,0 +1,15 @@
+Red Fruits:
+
+Apple
+Strawberry
+Cherry
+Raspberry
+Red grapes
+
+Green Fruits:
+
+Green apple
+Kiwi
+Honeydew melon
+Grapes (some varieties)
+Lime
